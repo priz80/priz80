@@ -1,5 +1,10 @@
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=priz80&show_icons=true&theme=radial)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=priz80&layout=compact&theme=radial)](https://github.com/anuraghazra/github-readme-stats)
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=priz80&show_icons=true&theme=dracula&hide_border=true)
+
+## Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=priz80&layout=compact&theme=dracula&hide_border=true)
 
 # Резюме: Frontend-разработчик
 
