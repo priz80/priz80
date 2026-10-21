@@ -1,3 +1,5 @@
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=priz80&show_icons=true&theme=radial)
+
 # Резюме: Frontend-разработчик
 
 ## Ключевые навыки (Стек технологий)
