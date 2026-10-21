@@ -8,8 +8,8 @@
 
 ## 📬 Контакты
 
-- **Email:** [your@email.com](mailto:priz8090@gmail.com)
-- **Telegram:** [@yourusername](https://t.me/Igor_chernenko)
+- **Email:** [priz8090@gmail.com](mailto:priz8090@gmail.com)
+- **Telegram:** [@Igor_chernenko](https://t.me/Igor_chernenko)
 
 ---
 
