@@ -6,7 +6,7 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=priz80&layout=compact&theme=dracula&hide_border=true)
 
-# Резюме: Frontend-разработчик
+# Frontend-разработчик
 
 ## Ключевые навыки (Стек технологий)
 * **Frontend:** JavaScript, React, HTML5, CSS3, БЭМ, Flexbox, SVG-спрайты, Адаптивная верстка, Pixel Perfect
