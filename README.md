@@ -1,4 +1,5 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=priz80&show_icons=true&theme=radial)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=priz80&layout=compact&theme=radial)
 
 # Резюме: Frontend-разработчик
 
