@@ -1,77 +1,86 @@
+<div align="right">
+  <a href="./README.md">
+    <img src="https://shields.io" alt="English" />
+  </a>
+  <a href="./README.ru.md">
+    <img src="https://shields.io" alt="Русский" />
+  </a>
+</div>
+
 # Fullstack Developer
 
 ---
 
-## 📊 Статистика GitHub
+## 📊 GitHub Statistics
 
 <p align="center">
-  <!-- 0. Общая информация и график контрибьюций за год -->
+  <!-- 0. General info and contribution graph -->
   <img width="600" src="./profile-summary-card-output/dracula/0-profile-details.svg" alt="Profile Details" />
   <br><br>
-  <!-- 1. Соотношение репозиториев по языкам -->
+  <!-- 1. Repositories per language -->
   <img width="600" src="./profile-summary-card-output/dracula/1-repos-per-language.svg" alt="Repos per Language" />
   <br><br>
-  <!-- 2. Топ языков по количеству коммитов -->
+  <!-- 2. Most commit language -->
   <img width="600" src="./profile-summary-card-output/dracula/2-most-commit-language.svg" alt="Most Commit Language" />
   <br><br>
-  <!-- 3. Общая статистика (звезды, коммиты, PR, issues) -->
+  <!-- 3. General stats -->
   <img width="600" src="./profile-summary-card-output/dracula/3-stats.svg" alt="GitHub Stats" />
   <br><br>
-  <!-- 4. Продуктивное время суток (когда вы чаще всего коммитите) -->
+  <!-- 4. Productive time -->
   <img width="600" src="./profile-summary-card-output/dracula/4-productive-time.svg" alt="Productive Time" />
 </p>
 
 ---
 
-## 📬 Контакты
+## 📬 Contacts
 
 - **Email:** [priz8090@gmail.com](mailto:priz8090@gmail.com)
 - **Telegram:** [@Igor_chernenko](https://t.me/Igor_chernenko)
 
 ---
 
-## 🛠 Ключевые навыки
+## 🛠 Key Skills
 
-- **Frontend:** JavaScript, React, HTML5, CSS3, БЭМ, Flexbox, SVG-спрайты, Адаптивная верстка, Pixel Perfect
+- **Frontend:** JavaScript, React, HTML5, CSS3, BEM, Flexbox, SVG Sprites, Responsive Web Design, Pixel Perfect
 - **Backend:** PHP, Python, Node.js
-- **Базы данных:** SQL, DBeaver
-- **DevOps & Серверы:** Docker, Nginx, Apache, VPS, Linux/Ubuntu, CI/CD, GitHub Actions
-- **Инструменты:** Webpack, npm, Git, Bash, SSH, Postman, Figma
+- **Databases:** SQL, DBeaver
+- **DevOps & Servers:** Docker, Nginx, Apache, VPS, Linux/Ubuntu, CI/CD, GitHub Actions
+- **Tools:** Webpack, npm, Git, Bash, SSH, Postman, Figma
 - **AI Tools:** GigaCode, MCP (Model Context Protocol)
 
 ---
 
-## 💼 Опыт работы
+## 💼 Work Experience
 
-**Fullstack-разработчик (Фриланс / Самозанятость)**  
-*Апрель 2023 — по настоящее время (3 года 7 месяцев)*
+**Fullstack Developer (Freelance / Self-Employed)**  
+*April 2023 — Present (3 years 7 months)*
 
-### Обязанности:
-- Проектирование архитектуры и разработка веб-приложений полного цикла от идеи до продакшена
-- **Frontend:** Создание интерактивных интерфейсов на React, адаптивная вёрстка по методологии БЭМ, Pixel Perfect по макетам из Figma
-- **Backend:** Разработка серверной логики и API на PHP, Node.js, Python
-- **DevOps:** Настройка и администрирование VPS/Linux, конфигурация Nginx и Apache, контейнеризация в Docker
-- **CI/CD:** Автоматизация процессов тестирования и деплоя через GitHub Actions
-- **Базы данных:** Проектирование схем, написание SQL-запросов, управление данными через DBeaver
-- **Управление проектами:** Ведение переговоров с клиентами, сбор требований, составление ТЗ, управление бэклогом (Kanban/Agile)
+### Responsibilities:
+- Designing architecture and developing full-cycle web applications from concept to production
+- **Frontend:** Building interactive UIs with React, responsive layout using BEM methodology, Pixel Perfect implementation from Figma designs
+- **Backend:** Developing server-side logic and APIs using PHP, Node.js, and Python
+- **DevOps:** Configuring and administrating VPS/Linux servers, setting up Nginx and Apache, containerization with Docker
+- **CI/CD:** Automating testing and deployment workflows via GitHub Actions
+- **Databases:** Designing database schemas, writing SQL queries, managing data with DBeaver
+- **Project Management:** Communicating with clients, gathering requirements, writing technical specifications, backlog management (Kanban/Agile)
 
-### Достижения:
-- ✅ Успешно реализовал и запустил **4+ коммерческих проектов** полного цикла для частных клиентов и бизнеса
-- ⚡ Внедрил ИИ-инструменты (GigaCode, MCP) в ежедневную разработку, ускорив написание и рефакторинг кода на **30%**
-- 🚀 Настроил автоматический деплоймент для клиентских сайтов, сократив время передачи готового продукта в продакшен до **нескольких минут**
-- ✅ Обеспечил **100% валидность** кода по стандартам W3C во всех сданных проектах, улучшив базовое SEO-продвижение
-
----
-
-## 🤝 Личные качества
-
-- **Самоорганизация** — самостоятельное управление удалённым рабочим процессом, контроль дедлайнов и объёма задач
-- **Agile & Kanban** — опыт работы с досками задач, ведение бэклога, проведение созвонов и презентаций для клиентов
-- **Внимание к деталям** — высокая усидчивость, стрессоустойчивость, быстрое обучение новым технологиям
+### Achievements:
+- ✅ Successfully delivered and launched **4+ full-cycle commercial projects** for private clients and businesses
+- ⚡ Integrated AI tools (GigaCode, MCP) into daily development workflows, accelerating coding and refactoring by **30%**
+- 🚀 Configured automated deployment pipelines for client websites, reducing production release time to **a few minutes**
+- ✅ Achieved **100% W3C code validity** across all delivered projects, improving baseline SEO performance
 
 ---
 
-## 🌐 Языки
+## 🤝 Soft Skills
 
-- **Русский** — родной
-- **Английский** — [B2 Upper-Intermediate]
+- **Self-Organization** — independent management of remote workflows, strict control of deadlines and project scope
+- **Agile & Kanban** — hands-on experience with task boards, backlog grooming, conducting client calls and demos
+- **Attention to Detail** — high perseverance, stress resistance, fast learner of new technologies
+
+---
+
+## 🌐 Languages
+
+- **Russian** — Native
+- **English** — B2 (Upper-Intermediate)
