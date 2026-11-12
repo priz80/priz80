@@ -5,8 +5,9 @@
 ## 📊 Статистика GitHub
 
 <p align="center">
-  <img width="49%" src="./profile-summary-card-output/dracula/0-profile-details.svg" alt="Profile Details" />
-  <img width="49%" src="./profile-summary-card-output/dracula/2-most-commit-language.svg" alt="Top Languages" />
+  <img width="600" src="./profile-summary-card-output/dracula/0-profile-details.svg" alt="Profile Details" />
+  <br><br>
+  <img width="600" src="./profile-summary-card-output/dracula/2-most-commit-language.svg" alt="Top Languages" />
 </p>
 
 ---
