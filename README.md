@@ -3,9 +3,10 @@
     <img src="https://shields.io" alt="English" />
   </a>
   <a href="./README.ru.md">
-    <img src="https://shields.io" alt="Русский" />
+    <img src="https://shields.io" alt="Russian" />
   </a>
 </div>
+
 
 # Fullstack Developer
 
