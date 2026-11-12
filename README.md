@@ -1,12 +1,6 @@
-<div align="right">
-  <a href="./README.md">
-    <img src="https://shields.io" alt="English" />
-  </a>
-  <a href="./README.ru.md">
-    <img src="https://shields.io" alt="Russian" />
-  </a>
-</div>
-
+<p align="right">
+  🌐 <strong>English</strong> | <a href="./README.ru.md">Русский</a>
+</p>
 
 # Fullstack Developer
 
