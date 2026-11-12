@@ -5,9 +5,20 @@
 ## 📊 Статистика GitHub
 
 <p align="center">
+  <!-- 0. Общая информация и график контрибьюций за год -->
   <img width="600" src="./profile-summary-card-output/dracula/0-profile-details.svg" alt="Profile Details" />
   <br><br>
-  <img width="600" src="./profile-summary-card-output/dracula/2-most-commit-language.svg" alt="Top Languages" />
+  <!-- 1. Соотношение репозиториев по языкам -->
+  <img width="600" src="./profile-summary-card-output/dracula/1-repos-per-language.svg" alt="Repos per Language" />
+  <br><br>
+  <!-- 2. Топ языков по количеству коммитов -->
+  <img width="600" src="./profile-summary-card-output/dracula/2-most-commit-language.svg" alt="Most Commit Language" />
+  <br><br>
+  <!-- 3. Общая статистика (звезды, коммиты, PR, issues) -->
+  <img width="600" src="./profile-summary-card-output/dracula/3-stats.svg" alt="GitHub Stats" />
+  <br><br>
+  <!-- 4. Продуктивное время суток (когда вы чаще всего коммитите) -->
+  <img width="600" src="./profile-summary-card-output/dracula/4-productive-time.svg" alt="Productive Time" />
 </p>
 
 ---
