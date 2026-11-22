@@ -61,7 +61,7 @@
 
 ### Achievements:
 - ✅ Successfully delivered and launched **4+ full-cycle commercial projects** for private clients and businesses
-- ⚡ Integrated AI tools (GigaCode, MCP) into daily development workflows, accelerating coding and refactoring by **30%**
+- ⚡ Integrated AI tools (GitHub Copilot, GigaCode, MCP) into daily development workflows, accelerating coding and refactoring by **30%**
 - 🚀 Configured automated deployment pipelines for client websites, reducing production release time to **a few minutes**
 - ✅ Achieved **100% W3C code validity** across all delivered projects, improving baseline SEO performance
 
