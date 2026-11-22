@@ -41,7 +41,7 @@
 - **Databases:** SQL, DBeaver
 - **DevOps & Servers:** Docker, Nginx, Apache, VPS, Linux/Ubuntu, CI/CD, GitHub Actions
 - **Tools:** Webpack, npm, Git, Bash, SSH, Postman, Figma
-- **AI Tools:** GigaCode, MCP (Model Context Protocol)
+- **AI Tools:** GitHub Copilot, GigaCode, MCP (Model Context Protocol)
 
 ---
 
